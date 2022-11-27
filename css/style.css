@@ -236,3 +236,25 @@ main {
         margin: 10vh auto;
     }
 }
+
+.alterar {
+    margin: 5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.botoes {
+  display: fixed;
+  width: 50px;
+  right: 0px;
+  bottom: 0px;
+}
+.bt-azul{background-color: blue}
+.bt-amarelo{background-color: yellow}
+.bt-branco{background-color: white}
+.bt-preto{background-color: black}
+.bt-rosa{background-color: pink}
+.bt-vermelho{background-color: red}
+.bt-verde{background-color: green}
